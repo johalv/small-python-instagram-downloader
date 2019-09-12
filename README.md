@@ -1,7 +1,7 @@
 # small-python-instagram-downloader
 
 Simple yet, _hopefully_, powerful
-====================
+---------------------
 
 This is a very simple, **and work still in progress**, downloader for Instagram photos. It is a very "manual" way of downloading the highest resolution from a post. 
 

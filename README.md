@@ -3,15 +3,15 @@
 Simple yet, _hopefully_, powerful
 ---------------------
 
-This is a very simple, **and work still in progress**, downloader for Instagram photos. It is a very "manual" way of downloading the highest resolution from a post. 
+This is a very simple, **and work still in progress**, downloader for Instagram photos. It gives a "manual" feeling of downloading the highest resolution picture from a chosen amount of posts.
 
 
 What and why?
 ---------------------
 
-This is just me trying what *_BeautifulSoup_* together with *_tkinter_* and *_wget_* can accomplish.
+This is just me trying what **_BeautifulSoup_** together with **_tkinter_** and **_wget_** can accomplish.
 
-The idea behind it is that the software simulates a keyboard command that will go to the next picture of the active picture. 
+The idea behind it is that the software simulates a keyboard command that takes the user to the next picture, until the downloader is finished.
 
 1. Start off with chosing a Instagram **post**
 2. Run the program

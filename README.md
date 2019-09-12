@@ -22,6 +22,6 @@ The idea behind it is that the software simulates a keyboard command that will g
 
 ### Things that currently __do not__ work and need more thought:
 
-> A "multipost" saves only the last photo
-> When browsing a video, the thumbnail will be downloaded
-> Sometimes the timing is off, resulting in a duplicates
+- A "multipost" saves only the last photo
+- When browsing a video, the thumbnail will be downloaded
+- Sometimes the timing is off, resulting in a duplicates

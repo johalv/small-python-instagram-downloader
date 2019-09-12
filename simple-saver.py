@@ -65,7 +65,7 @@ def copy_url_of_next_pic():
             keyboard.press("l")
             keyboard.release("l")
 
-            time.sleep(0.1)
+            time.sleep(0.14)
 
             with keyboard.pressed(Key.ctrl):
                 keyboard.press("c")
@@ -76,7 +76,7 @@ def copy_url_of_next_pic():
             keyboard.press("l")
             keyboard.release("l")
 
-        time.sleep(0.1)
+        time.sleep(0.14)
 
         with keyboard.pressed(Key.cmd):
             keyboard.press("c")

@@ -13,7 +13,7 @@ This is just me trying what **_BeautifulSoup_** together with **_tkinter_** and 
 
 The idea behind it is that the software simulates a keyboard command that takes the user to the next picture, until the downloader is finished.
 
-1. Start off with chosing a Instagram **post**
+1. Start off with chosing an Instagram **post**
 2. Run the program
 3. Chose how many pictures you want to save
 4. Go to your active Instagram tab in your browser

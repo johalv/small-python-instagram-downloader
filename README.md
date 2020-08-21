@@ -1,6 +1,6 @@
 
 
-# small-python-instagram-downloader — !!!broken because of new instagram.com update!!!
+# small-python-instagram-downloader — broken because of new instagram.com update
 
 ~~Simple yet, _hopefully_, powerful~~
 ---------------------

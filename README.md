@@ -2,13 +2,13 @@
 
 # small-python-instagram-downloader — !!!broken because of new instagram.com update!!!
 
-~~Simple yet, _hopefully_, powerful
+~~Simple yet, _hopefully_, powerful~~
 ---------------------
 
 This is a very simple, **and work still in progress**, downloader for Instagram photos. It gives a "manual" feeling of downloading the highest resolution picture from a chosen amount of posts.
 
 
-~~What and why?
+~~What and why?~~
 ---------------------
 
 This is just me trying what **_BeautifulSoup_** together with **_tkinter_** and **_wget_** can accomplish.
